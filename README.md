@@ -30,7 +30,7 @@ Basic settings:
 - Enable function: Whether to enable the function of this plugin
 - Auto upload network images: Whether to automatically upload network images, after enabling this function, the plugin will automatically recognize network images and upload them, when pasting, if the content contains markdown image syntax, the plugin will automatically upload and replace the image link
 - Alternate text: The prompt text displayed when the image fails to load
-- Image size: Does not affect the size of the uploaded image, only affects the size of the image displayed in Obsidian, the syntax is ! [|300](xxx), where 300 is the size of the image to be displayed
+- Image size: Does not affect the size of the uploaded image, only affects the size of the image displayed in Obsidian, the syntax is `![|300](xxx)`, where 300 is the size of the image to be displayed
 
 Server settings:
 
