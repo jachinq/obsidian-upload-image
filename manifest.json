@@ -1,0 +1,9 @@
+{
+  "id": "upload-image",
+  "name": "Upload Images",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.8",
+  "description": "This is a plugin for auto uploading images to a image server.",
+  "author": "jachinq",
+  "isDesktopOnly": false
+}
