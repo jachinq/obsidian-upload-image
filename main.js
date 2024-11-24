@@ -444,7 +444,7 @@ class UploadImageSettingTab extends PluginSettingTab {
 
     let logo = containerEl.createEl('a', { 
       text: 'logo', 
-      href: 'https://github.com/jachinq/upload-image', 
+      href: 'https://github.com/jachinq/obsidian-upload-image', 
       target: '_blank' 
     })
 
